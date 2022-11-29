@@ -1,4 +1,4 @@
-package Nestor
+package github
 
 import (
 	"fmt"
